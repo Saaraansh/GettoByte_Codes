@@ -1,0 +1,12 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/gpio_driver.c:17:13:hal_gpio_configure_pin_mode	24	static
+../Src/gpio_driver.c:28:13:hal_gpio_configure_pin_otype	24	static
+../Src/gpio_driver.c:40:13:hal_gpio_configure_pin_speed	24	static
+../Src/gpio_driver.c:52:6:hal_gpio_configure_pin_pupd	24	static
+../Src/gpio_driver.c:63:6:hal_gpio_init	16	static
+../Src/gpio_driver.c:78:6:hal_gpio_set_alt_fun	16	static
+../Src/gpio_driver.c:92:9:hal_gpio_read_from_pin	24	static
+../Src/gpio_driver.c:107:6:hal_gpio_write_to_pin	16	static
+../Src/gpio_driver.c:122:6:hal_gpio_configure_interrupt	16	static
+../Src/gpio_driver.c:141:6:hal_gpio_enable_interrupt	16	static
+../Src/gpio_driver.c:152:6:hal_gpio_clear_interrupt	16	static
