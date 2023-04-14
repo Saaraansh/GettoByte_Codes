@@ -6,9 +6,11 @@
 The platform for learning Embedded Development and IoT.
 
 **Roles and Responsibilities** :
+  
 • Writing Technical Blogs for the community on official website.
-• Documenting things learned through research and experience and sharing that
-knowledge with a border audience.
-• Hands on with various sensors and Microcontrollers like Arduino, ESP8266, ESP32
-and STM32F4 and STM32WB series.
+  
+• Documenting things learned through research and experience and sharing that knowledge with a border audience.
+  
+• Hands on with various sensors and Microcontrollers like Arduino, ESP8266, ESP32 and STM32F4 and STM32WB series.
+  
 • Helped in gaining practical knowledge for the latest technologies in this field.
